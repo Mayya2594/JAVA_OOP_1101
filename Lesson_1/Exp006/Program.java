@@ -47,7 +47,7 @@ public class Program {
             System.out.println(teams.get(i).getInfo());
         }
         System.out.println();
-        System.out.printf("maggicianCount: %d priestCpunt: %d \n\n", magicianCount, priestCount);
+        System.out.printf("maggicianCount: %d priestCount: %d \n", magicianCount, priestCount);
 
     }
 }
